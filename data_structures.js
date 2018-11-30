@@ -2,11 +2,11 @@
  * @author Clayton Alexander
  * @version 1.0
  * 
- * Second Project for CS253. This project builds data structures when given
- * a sequence of words.
+ * Third Project for CS253. This data_structures project builds data
+ * structures when given a sequence of words.
  *
  */
-//test
+
 var exports = module.exports = {};
 var functions = {};
 functions = {e1: function() {                                                   
